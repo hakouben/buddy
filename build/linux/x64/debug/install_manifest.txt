@@ -1,0 +1,14 @@
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/buddy
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/flutter_assets/assets/icon/icons8-home.svg
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/flutter_assets/assets/icon/retour.svg
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/flutter_assets/assets/image/yeah.jpg
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/hakou/Documents/practice/flutter2/buddy/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
